@@ -15,14 +15,15 @@ I am a 3rd-year Electronics & Telecommunication (ENTC) student passionate about 
 **Backend & Tools**
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-%23E24329.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ---
 
 ### 📁 Featured Projects
 
-- **[Project Name 1]** - A Flutter application integrated with Firebase for real-time data sync.
-- **[Project Name 2]** - A Core Java based solution for [problem you solved].
+- **[ChatBot]** - A Flutter application integrated with Gemini api.
 - **Personal Portfolio** - A responsive web portfolio built using Flutter.
 
 ---
@@ -35,11 +36,14 @@ I am a 3rd-year Electronics & Telecommunication (ENTC) student passionate about 
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishalyadavv9&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalyadavv9&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishalyadavv9)
+[![GitLab](https://img.shields.io/badge/GitLab-%23E24329.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/vishalyadavv9)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/vishalyadavv9)
+
+
