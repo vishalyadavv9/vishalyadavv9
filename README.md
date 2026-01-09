@@ -38,11 +38,6 @@ I am a 3rd-year Electronics & Telecommunication (ENTC) student passionate about 
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishalyadavv9&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalyadavv9&layout=compact&theme=radical)
-
----
 
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishalyadavv9)
